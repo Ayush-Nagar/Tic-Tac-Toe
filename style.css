@@ -4,8 +4,9 @@
 }
 
 body{
-    background-color: rgb(52, 114, 114);
+    background-color: #777;
     text-align: center;
+    margin-top: 3%;
 }
 
 .container{
